@@ -1,0 +1,9 @@
+.nav$*6 =>   nav1,nav2......nav6
+flexgrow= to maximize the usage of empty space inside a div
+ctrl+ shift + l= select multiple referances
+ctrl +alt+ direction keys =multiple cursor
+flex basis=> to grow the width in boxex;
+flex-grow=> to cover up an empty space
+Json.stringyfy does not convert function and to do so we need to convert function to string and then we can try
+${} used to apply value once .
+string are immutable so same string cannot be changed again and again;
